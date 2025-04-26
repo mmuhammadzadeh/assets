@@ -1,52 +1,62 @@
 [
-    {
-        "title": "خاطره ها",
-        "artist": "محسن یگانه",
-        "coverUrl": "https://example.com/covers/khaterat.jpg"
-    },
-    {
-        "title": "نگران منی",
-        "artist": "مرتضی پاشایی",
-        "coverUrl": "https://example.com/covers/negaran.jpg"
-    },
-    {
-        "title": "دیوونه",
-        "artist": "بهنام بانی",
-        "coverUrl": "https://example.com/covers/divooneh.jpg"
-    },
-    {
-        "title": "عشق تو",
-        "artist": "شادمهر عقیلی",
-        "coverUrl": "https://example.com/covers/eshgh.jpg"
-    },
-    {
-        "title": "دیوونه بازی",
-        "artist": "رستاک",
-        "coverUrl": "https://example.com/covers/divoonebazi.jpg"
-    },
-    {
-        "title": "دل دیوونه",
-        "artist": "هوروش بند",
-        "coverUrl": "https://example.com/covers/deldivooneh.jpg"
-    },
-    {
-        "title": "پرنده",
-        "artist": "ابی",
-        "coverUrl": "https://example.com/covers/parandeh.jpg"
-    },
-    {
-        "title": "زمستون",
-        "artist": "فرهاد",
-        "coverUrl": "https://example.com/covers/zemestoon.jpg"
-    },
-    {
-        "title": "بیا بازم",
-        "artist": "مسیح و آرش",
-        "coverUrl": "https://example.com/covers/biabazam.jpg"
-    },
-    {
-        "title": "چتر خیس",
-        "artist": "حامد همایون",
-        "coverUrl": "https://example.com/covers/chatrekhis.jpg"
-    }
+  {
+    "title": "خاطره ها",
+    "artist": "محسن یگانه",
+    "coverUrl": "https://images.example.com/khaterat.jpg"
+  },
+  {
+    "title": "نگران منی",
+    "artist": "مرتضی پاشایی",
+    "coverUrl": "https://images.example.com/negaran.jpg"
+  },
+  {
+    "title": "دیوونه",
+    "artist": "بهنام بانی",
+    "coverUrl": "https://images.example.com/divooneh.jpg"
+  },
+  {
+    "title": "عشق تو",
+    "artist": "شادمهر عقیلی",
+    "coverUrl": "https://images.example.com/eshgh.jpg"
+  },
+  {
+    "title": "بیا بازم",
+    "artist": "مسیح و آرش",
+    "coverUrl": "https://images.example.com/biabazam.jpg"
+  },
+  {
+    "title": "چتر خیس",
+    "artist": "حامد همایون",
+    "coverUrl": "https://images.example.com/chatrekhis.jpg"
+  },
+  {
+    "title": "پرنده",
+    "artist": "ابی",
+    "coverUrl": "https://images.example.com/parandeh.jpg"
+  },
+  {
+    "title": "زمستون",
+    "artist": "فرهاد",
+    "coverUrl": "https://images.example.com/zemestoon.jpg"
+  },
+  {
+    "title": "وایسا دنیا",
+    "artist": "بنیامین بهادری",
+    "coverUrl": "https://images.example.com/vaysadonia.jpg"
+  },
+  {
+    "title": "آروم آروم",
+    "artist": "محسن یگانه",
+    "coverUrl": "https://images.example.com/aroomaroom.jpg"
+  },
+  {
+    "title": "هواتو کردم",
+    "artist": "حمید عسکری",
+    "coverUrl": "https://images.example.com/havato.jpg"
+  },
+  {
+    "title": "لبخند",
+    "artist": "مرتضی اشرفی",
+    "coverUrl": "https://images.example.com/labkhand.jpg"
+  }
 ]

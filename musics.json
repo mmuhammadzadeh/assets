@@ -1,62 +1,110 @@
 [
   {
+    "id": 1,
     "title": "خاطره ها",
     "artist": "محسن یگانه",
-    "coverUrl": "https://images.example.com/khaterat.jpg"
+    "album": "خاطره",
+    "duration": 5,
+    "musicUrl": "https://images.example.com/khaterat.jpg",
+    "imageUrl": "https://images.example.com/khaterat.jpg"
   },
   {
+    "id": 2,
     "title": "نگران منی",
     "artist": "مرتضی پاشایی",
-    "coverUrl": "https://images.example.com/negaran.jpg"
+    "album": "خاطره",
+    "duration": 2,
+    "musicUrl": "https://images.example.com/negaran.jpg",
+    "imageUrl": "https://images.example.com/negaran.jpg"
   },
   {
+    "id": 3,
     "title": "دیوونه",
     "artist": "بهنام بانی",
-    "coverUrl": "https://images.example.com/divooneh.jpg"
+    "album": "خاطره",
+    "duration": 3,
+    "musicUrl": "https://images.example.com/divooneh.jpg",
+    "imageUrl": "https://images.example.com/divooneh.jpg"
   },
   {
+    "id": 4,
     "title": "عشق تو",
-    "artist": "شادمهر عقیلی",
-    "coverUrl": "https://images.example.com/eshgh.jpg"
+    "artist": "شادمهر عقیلی", 
+    "album": "خاطره",
+    "duration": 4,
+    "musicUrl": "https://images.example.com/eshgh.jpg",
+    "imageUrl": "https://images.example.com/eshgh.jpg"
   },
   {
+    "id": 5,
     "title": "بیا بازم",
     "artist": "مسیح و آرش",
-    "coverUrl": "https://images.example.com/biabazam.jpg"
+    "album": "خاطره",
+    "duration": 45,
+    "musicUrl": "https://images.example.com/biabazam.jpg",
+    "imageUrl": "https://images.example.com/biabazam.jpg"
   },
   {
+    "id": 6,
     "title": "چتر خیس",
     "artist": "حامد همایون",
-    "coverUrl": "https://images.example.com/chatrekhis.jpg"
+    "album": "خاطره",
+    "duration": 15,
+    "musicUrl": "https://images.example.com/chatrekhis.jpg",
+    "imageUrl": "https://images.example.com/chatrekhis.jpg"
   },
   {
+    "id": 7,
     "title": "پرنده",
-    "artist": "ابی",
-    "coverUrl": "https://images.example.com/parandeh.jpg"
+    "artist": "ابی", 
+    "album": "خاطره",
+    "duration": 25,
+    "musicUrl": "https://images.example.com/parandeh.jpg",
+    "imageUrl": "https://images.example.com/parandeh.jpg"
   },
   {
+    "id": 8,
     "title": "زمستون",
-    "artist": "فرهاد",
-    "coverUrl": "https://images.example.com/zemestoon.jpg"
+    "artist": "فرهاد", 
+    "album": "خاطره",
+    "duration": 5,
+    "musicUrl": "https://images.example.com/zemestoon.jpg",
+    "imageUrl": "https://images.example.com/zemestoon.jpg"
   },
   {
+    "id": 9,
     "title": "وایسا دنیا",
-    "artist": "بنیامین بهادری",
-    "coverUrl": "https://images.example.com/vaysadonia.jpg"
+    "artist": "بنیامین بهادری", 
+    "album": "خاطره",
+    "duration": 4,
+    "musicUrl": "https://images.example.com/vaysadonia.jpg",
+    "imageUrl": "https://images.example.com/vaysadonia.jpg"
   },
   {
+    "id": 10,
     "title": "آروم آروم",
-    "artist": "محسن یگانه",
-    "coverUrl": "https://images.example.com/aroomaroom.jpg"
+    "artist": "محسن یگانه", 
+    "album": "خاطره",
+    "duration": 5,
+    "musicUrl": "https://images.example.com/aroomaroom.jpg",
+    "imageUrl": "https://images.example.com/aroomaroom.jpg"
   },
   {
+    "id": 11,
     "title": "هواتو کردم",
-    "artist": "حمید عسکری",
-    "coverUrl": "https://images.example.com/havato.jpg"
+    "artist": "حمید عسکری", 
+    "album": "خاطره",
+    "duration": 5,
+    "musicUrl": "https://images.example.com/havato.jpg",
+    "imageUrl": "https://images.example.com/havato.jpg"
   },
   {
+    "id": 12,
     "title": "لبخند",
-    "artist": "مرتضی اشرفی",
-    "coverUrl": "https://images.example.com/labkhand.jpg"
+    "artist": "مرتضی اشرفی", 
+    "album": "خاطره",
+    "duration": 5,
+    "musicUrl": "https://images.example.com/labkhand.jpg",
+    "imageUrl": "https://images.example.com/labkhand.jpg"
   }
 ]

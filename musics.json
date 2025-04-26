@@ -1,0 +1,52 @@
+[
+    {
+        "title": "خاطره ها",
+        "artist": "محسن یگانه",
+        "coverUrl": "https://example.com/covers/khaterat.jpg"
+    },
+    {
+        "title": "نگران منی",
+        "artist": "مرتضی پاشایی",
+        "coverUrl": "https://example.com/covers/negaran.jpg"
+    },
+    {
+        "title": "دیوونه",
+        "artist": "بهنام بانی",
+        "coverUrl": "https://example.com/covers/divooneh.jpg"
+    },
+    {
+        "title": "عشق تو",
+        "artist": "شادمهر عقیلی",
+        "coverUrl": "https://example.com/covers/eshgh.jpg"
+    },
+    {
+        "title": "دیوونه بازی",
+        "artist": "رستاک",
+        "coverUrl": "https://example.com/covers/divoonebazi.jpg"
+    },
+    {
+        "title": "دل دیوونه",
+        "artist": "هوروش بند",
+        "coverUrl": "https://example.com/covers/deldivooneh.jpg"
+    },
+    {
+        "title": "پرنده",
+        "artist": "ابی",
+        "coverUrl": "https://example.com/covers/parandeh.jpg"
+    },
+    {
+        "title": "زمستون",
+        "artist": "فرهاد",
+        "coverUrl": "https://example.com/covers/zemestoon.jpg"
+    },
+    {
+        "title": "بیا بازم",
+        "artist": "مسیح و آرش",
+        "coverUrl": "https://example.com/covers/biabazam.jpg"
+    },
+    {
+        "title": "چتر خیس",
+        "artist": "حامد همایون",
+        "coverUrl": "https://example.com/covers/chatrekhis.jpg"
+    }
+]

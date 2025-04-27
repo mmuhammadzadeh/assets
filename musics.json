@@ -4,7 +4,7 @@
     "title": "خاطره ها",
     "artist": "محسن یگانه",
     "album": "خاطره",
-    "duration": 410,
+    "duration": "4:10",
     "musicUrl": "https://irsv.upmusics.com/AliBZ/Terakhtor%20Mane%20(320).mp3",
     "imageUrl": "https://www.google.com/logos/doodles/2025/st-georges-day-2025-6753651837110749.2-2x.png"
   },
@@ -16,7 +16,6 @@
     "duration": 201,
     "musicUrl": "https://irsv.upmusics.com/AliBZ/Terakhtor%20Mane%20(320).mp3",
     "imageUrl": "https://upmusics.com/wp-content/uploads/2024/08/Screenshot-2024-08-23-162319.jpg",
-    "favorite": false
   },
   {
     "id": 3,
